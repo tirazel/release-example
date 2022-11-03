@@ -13,4 +13,4 @@ jobs:
   draft-new-release:
     uses: tirazel/actions-collection/.github/workflows/draft-release.yml@main
     secrets:
-      envPAT: ${{ secrets.GH_TOKEN }}
+      envPAT: ${{ secrets.GITHUB_TOKEN }}
