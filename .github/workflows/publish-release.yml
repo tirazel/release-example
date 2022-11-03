@@ -1,0 +1,15 @@
+name: "Publish new release"
+
+on:
+  pull_request:
+    branches:
+      - main
+    types:
+      - closed
+
+jobs:
+  release:
+    uses: tirazel/actions-collection/.github/workflows/publish-release.yml@main
+
+
+
