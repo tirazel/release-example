@@ -10,6 +10,8 @@ on:
 jobs:
   release:
     uses: tirazel/actions-collection/.github/workflows/publish-release.yml@main
+    secrets:
+      envPAT: ${{ secrets.GH_TOKEN }}
 
 
 
