@@ -10,4 +10,7 @@ on:
 
 jobs:
   draft-new-release:
+    env:
+      - GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
     uses: tirazel/actions-collection/.github/workflows/draft-release.yml@main
