@@ -6,9 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
- 
+
+## [v2.0] - 2023-01-12
+
 This the body of the pull request _test-pr_ that updates [test-pr.txt](https://github.com/tirazel/release-example/blob/main/test-pr.txt)! 😁
- 
+
 This is the body of the pull request test-pr!!!
 
 ## [v0.9] - 2022-11-03
@@ -67,7 +69,9 @@ Sample release note
 
 ## [v0.1.10] - 2022-05-12
 
-[Unreleased]: https://github.com/tirazel/release-example/compare/v0.9...HEAD
+[Unreleased]: https://github.com/tirazel/release-example/compare/v2.0...HEAD
+
+[v2.0]: https://github.com/tirazel/release-example/compare/v0.9...v2.0
 
 [v0.9]: https://github.com/tirazel/release-example/compare/v0.8...v0.9
 
