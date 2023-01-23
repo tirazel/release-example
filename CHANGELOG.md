@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- ### Updates test-pr.txt
+  This update includes the following life lessons from Barovia:
+  - “When life gives you tentacles, you make an existential crisis” ~ Fanik (probably)
+
+---
+
+
 ## [v2.0] - 2023-01-12
 
 This the body of the pull request _test-pr_ that updates [test-pr.txt](https://github.com/tirazel/release-example/blob/main/test-pr.txt)! 😁

@@ -1,3 +1,2 @@
 Hello world!
-
-This is yet another edit to test-pr
+Update to file
